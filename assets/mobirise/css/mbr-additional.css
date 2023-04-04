@@ -827,11 +827,6 @@ a {
 .cid-taOw7l9PvM .navbar.collapsed.opened .dropdown-menu {
   top: 0;
 }
-@media (min-width: 992px) {
-  .cid-taOw7l9PvM .navbar.collapsed.opened:not(.navbar-short) .navbar-collapse {
-    max-height: calc(98.5vh - 3rem);
-  }
-}
 .cid-taOw7l9PvM .navbar.collapsed .dropdown-menu .dropdown-submenu {
   left: 0 !important;
 }
@@ -1545,7 +1540,7 @@ a {
 }
 .cid-taOwhm7MiC {
   padding-top: 4rem;
-  padding-bottom: 4rem;
+  padding-bottom: 3rem;
   background-color: #2b2b2b;
 }
 .cid-taOwhm7MiC .mbr-text,
@@ -1800,78 +1795,6 @@ a {
 @media (max-width: 425px) {
   .cid-taOwpjw4BE .pt-20 {
     padding-top: 10px;
-  }
-}
-.cid-taOwrfqjLU {
-  padding-top: 3rem;
-  padding-bottom: 3rem;
-  background-color: #2b2b2b;
-}
-.cid-taOwrfqjLU .mbr-text {
-  color: #fafafa;
-}
-.cid-taOwrfqjLU .row {
-  justify-content: start;
-}
-.cid-taOwrfqjLU .line {
-  border-top: 1px solid currentColor;
-  margin-bottom: 5rem;
-}
-.cid-taOwrfqjLU .mbr-section-title {
-  color: #fafafa;
-}
-.cid-taOwrfqjLU .title-arrow {
-  transform: rotate(225deg);
-  position: absolute;
-}
-@media (max-width: 425px) {
-  .cid-taOwrfqjLU .title-arrow {
-    top: 23px;
-  }
-}
-@media (max-width: 991px) {
-  .cid-taOwrfqjLU .wrapper {
-    flex-direction: column-reverse;
-  }
-}
-.cid-taOwrfqjLU .text-position {
-  padding: 48px 32px;
-}
-@media (max-width: 991px) {
-  .cid-taOwrfqjLU .text-position {
-    padding-top: 0;
-  }
-}
-@media (max-width: 425px) {
-  .cid-taOwrfqjLU .text-position {
-    padding: 0 10px 24px 10px;
-  }
-}
-.cid-taOws3pn0j {
-  padding-top: 1rem;
-  padding-bottom: 1rem;
-  background-color: #2b2b2b;
-}
-.cid-taOws3pn0j .rotate {
-  transform: rotate(225deg);
-}
-.cid-taOws3pn0j svg {
-  transition: all 0.4s;
-}
-.cid-taOws3pn0j a:hover > svg {
-  transform: rotate(315deg);
-}
-.cid-taOws3pn0j .style-button {
-  padding: 32px;
-  font-size: 30px;
-  cursor: pointer;
-  border-radius: 0;
-  transform: translateY(-130px);
-  font-weight: 500;
-}
-@media (min-width: 992px) and (max-width: 1099px) {
-  .cid-taOws3pn0j .style-button {
-    transform: translateY(-165px);
   }
 }
 .cid-taOwsPezKZ {
